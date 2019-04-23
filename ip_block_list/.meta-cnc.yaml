@@ -38,8 +38,7 @@ variables:
   - name: url
     description: EDL url
     default: http://www.local.local
-    type_hint: text
-    
+    type_hint: text 
   - name: tag_name
     description: Tag name
     default: tagName
@@ -56,8 +55,8 @@ variables:
       - key: Green
         value: color22
   - name: tag_description
-    desription: Tg description
-    defalt: Text here
+    description: Tg description
+    default: Text here
     type_hint: text
 # ---------------------------------------------------------------------
 # end of variables section
