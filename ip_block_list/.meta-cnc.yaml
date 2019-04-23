@@ -53,7 +53,7 @@ variables:
       - key: Blue
         value: color3
       - key: Green
-        value: color22
+        value: color2
   - name: tag_description
     description: Tg description
     default: Text here
